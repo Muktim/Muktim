@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
-**Muktim/Muktim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🏡 [website][website] **|** 
+📺 [youtube][youtube] **|** 
+[website]:
+[youtube]:
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/Muktim/count.svg)
+
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+
+<a href="https://github.com/Muktim/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Muktim" />
+</a>
+
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
+
+<br/>
+<br/>
+
+[instagram]: https://www.instagram.com/muktim_coskuner/
+[linkedin]: https://www.linkedin.com/in/muktim-coskuner/
+
+
+
+
+
