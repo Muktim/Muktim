@@ -3,7 +3,7 @@
   <text x="50%" y="40%" text-anchor="middle" fill="skyblue" font-size="50" font-family="Verdana" dominant-baseline="middle">
     Welcome to the Curiosity Lab
   </text>
-  <text x="50%" y="85%" text-anchor="middle" fill="darkolivegreen" font-size="25" font-family="Verdana" dominant-baseline="middle">
+  <text x="50%" y="75%" text-anchor="middle" fill="darkolivegreen" font-size="25" font-family="Verdana" dominant-baseline="middle">
     Curious? Beware: rogue buggy robots may roam free
   </text>
 </svg>
