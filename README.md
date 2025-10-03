@@ -1,9 +1,24 @@
 <div align="center">
   <h1>Welcome to My Profile</h1>
-  <img src="https://your-image-link" width="200">
+  <img src="Media/Tanom-737.jpg" width="100%">
 </div>
 
-<h1></h1>
+
+
+
+<div align="center">
+  <img src="Media/header.svg" alt="Header" width="800">
+</div>
+
+![Header](Media/header.svg)
+
+
+<h2><span style="color:red">🚀 Welcome Aboard!</span></h2>
+
+![Welcome](https://your-image-link.com/welcome.png)
+
+![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile-FF5733?style=for-the-badge)
+
 
 <h2>About Me</h2>
 
