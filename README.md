@@ -1,3 +1,22 @@
+<div align="center">
+  <h1>Welcome to My Profile</h1>
+  <img src="https://your-image-link" width="200">
+</div>
+
+<h1></h1>
+
+<h2>About Me</h2>
+
+
+<details>
+  <summary>📊 My GitHub Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" />
+</details>
+
+
+
+
 This page is still at `work in progress` stage 🚧
 
 # Hello there 👋
